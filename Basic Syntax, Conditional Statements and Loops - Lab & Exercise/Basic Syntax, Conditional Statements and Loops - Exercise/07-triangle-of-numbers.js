@@ -8,3 +8,8 @@ function syntaxDemo(number) {
       console.log(row)
     }
   }
+
+  syntaxDemo(3)
+
+
+  //Write a function, which receives a single number – n, and prints a triangle from 1 to n as in the examples.
