@@ -8,3 +8,5 @@ function firstLast(input){
     console.log(firstElements.join(' '));
     console.log(lastElements.join(' '));
 }
+
+firstLast()
